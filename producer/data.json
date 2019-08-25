@@ -1,0 +1,14 @@
+{
+  "head": {
+    "action_type": 1,
+    "action": "create"
+  },
+  "body": {
+    "payload": {
+      "user": {
+        "name": "mr.go",
+        "email": "mr-go@golang.com"
+      }
+    }
+  }
+}
